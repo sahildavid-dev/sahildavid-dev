@@ -13,7 +13,7 @@ Live with paying schools in India and Mozambique. 18 months in. Building from Ox
 
 **[Akashik Protocol](https://github.com/akashikprotocol)** — a coordination and shared memory layer for multi-agent AI systems. Spec + early implementation, open-source.
 
-**[Wikmind](https://github.com/akashikprotocol/wikmind)** — an open-source CLI that compiles raw documents into a structured, interlinked wiki using LLMs. Inspired by Andrej Karpathy's post on building second brains.
+**[Wikimind](https://github.com/akashikprotocol/wikimind)** — an open-source CLI that compiles raw documents into a structured, interlinked wiki using LLMs. Inspired by Andrej Karpathy's post on building second brains.
 
 ### 🧭 Experience
 
