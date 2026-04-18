@@ -5,7 +5,7 @@ I'm **Sahil** — British-Indian founder based in Oxford, building at the inters
 ### 🌱 What I'm building now
 
 **[Kiinara OS](https://www.kiinaraos.com)** — the AI operating system for schools.
-One platform for admissions, attendance, fees, and communication - with AI agents (powered by our reasoning engine, **Lotus**) that learn the institution they sit inside, mpre than wrapping a generic LLM.
+One platform for admissions, attendance, fees, and communication - with AI agents (powered by our reasoning engine, **Lotus**) that learn the institution they sit inside, more than wrapping a generic LLM.
 
 Live with paying schools in India and Mozambique. 18 months in. Building from Oxford, Chandigarh, and Maputo.
 
