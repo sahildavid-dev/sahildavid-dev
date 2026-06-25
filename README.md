@@ -1,23 +1,18 @@
 ## Hi there 👋
 
-I'm **Sahil** — British-Indian founder based in Oxford, building at the intersection of AI, education, and institutional data.
+I'm **Sahil** — Building at the intersection of AI, education, and institutional data.
 
 ### 🌱 What I'm building now
 
-**[Kiinara OS](https://www.kiinaraos.com)** — the AI operating system for schools.
-One platform for admissions, attendance, fees, and communication - with AI agents (powered by our reasoning engine, **Lotus**) that learn the institution they sit inside, more than wrapping a generic LLM.
+**[Akashik Protocol](https://github.com/akashikprotocol/core)** — a shared memory and coordination layer for multi-agent AI systems. When agents work together, they need a way to remember things and stay in sync. That's what Akashik is for. Open spec, early implementation, all in the open.
 
-Live with paying schools in India and Mozambique. 18 months in. Building from Oxford, Chandigarh, and Maputo.
+**[Wikimind](https://github.com/akashikprotocol/wikimind)** — a CLI that turns a pile of raw documents into a structured, interlinked wiki using LLMs. Point it at your notes, get back a second brain. Inspired by Andrej Karpathy's post on the idea.
 
-### 🔭 Also exploring
-
-**[Akashik Protocol](https://github.com/akashikprotocol)** — a coordination and shared memory layer for multi-agent AI systems. Spec + early implementation, open-source.
-
-**[Wikimind](https://github.com/akashikprotocol/wikimind)** — an open-source CLI that compiles raw documents into a structured, interlinked wiki using LLMs. Inspired by Andrej Karpathy's post on building second brains.
+**[Kiinara OS](https://www.kiinaraos.com)** — the AI operating system for education. Daily operations with agents (powered by our reasoning engine, **Lotus**) that learn the school.
 
 ### 🧭 Experience
 
-- **Senior AIML Engineer @ GSK** — built production LLM and data-visualisation applications for R&D scientists.
+- **Senior AIML Engineer @ GSK** — built LLM and data-visualisation applications for R&D scientists.
 - **Frontend Technical Lead @ huumun** — led engineering on data-viz and web platforms for enterprise clients.
 
 ### 🛠️ Tech I work with most
