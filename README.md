@@ -6,8 +6,6 @@ I'm **Sahil** ~ building Genesis, a new class of AI model that learns from exper
 
 **[Genesis](https://www.kiinaraintelligence.com/)** - a new class of AI model with no LLM and no neural network. It learns from experience, keeps the source of every belief, and cannot invent an answer.
 
-### Earlier projects
-
 **[Akashik Protocol](https://github.com/akashikprotocol/core)** — a shared memory and coordination layer for multi-agent AI systems. When agents work together, they need a way to remember things and stay in sync. That's what Akashik is for. Open spec, early implementation, all in the open.
 
 **[Wikimind](https://github.com/akashikprotocol/wikimind)** — a CLI that turns a pile of raw documents into a structured, interlinked wiki using LLMs. Point it at your notes, get back a second brain. Inspired by Andrej Karpathy's post on the idea.
