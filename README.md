@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-I'm **Sahil** — Building at the intersection of AI, education, and institutional data.
+I'm **Sahil** ~ building Genesis, a new class of AI model that learns from experience.
 
 ### 🌱 What I'm building now
+
+**[Genesis](https://www.kiinaraintelligence.com/)** - a new class of AI model with no LLM and no neural network. It learns from experience, keeps the source of every belief, and cannot invent an answer.
+
+### Earlier projects
 
 **[Akashik Protocol](https://github.com/akashikprotocol/core)** — a shared memory and coordination layer for multi-agent AI systems. When agents work together, they need a way to remember things and stay in sync. That's what Akashik is for. Open spec, early implementation, all in the open.
 
